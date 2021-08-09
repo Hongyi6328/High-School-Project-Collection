@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\bin\Debug\2013 IMMC Simulator.exe.config
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\bin\Debug\2013 IMMC Simulator.exe
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\bin\Debug\2013 IMMC Simulator.pdb
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\bin\Debug\2013 IMMC Simulator.xml
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\_2013_IMMC_Simulator.Form1.resources
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\_2013_IMMC_Simulator.Resources.resources
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.exe
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.xml
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.pdb
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\2013 IMMC Simulator\2013 IMMC Simulator\obj\Debug\2013 IMMC Simulator.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.exe.config
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.pdb
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Higher Maths.vbprojResolveAssemblyReference.cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random_Music_Notes.FormMenu.resources
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random_Music_Notes.FormFibonacci.resources
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random_Music_Notes.Resources.resources
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Higher Maths.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Higher Maths.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.pdb
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\bin\Debug\Random Music Notes.exe.config
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random Music Notes.pdb
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\bin\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\bin\Debug\Random Music Notes.pdb
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\bin\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Higher Maths.vbprojResolveAssemblyReference.cache
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormMenu.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormFibonacci.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormPi.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormSineRule.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.Resources.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Higher Maths.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Higher Maths.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormSequences.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.Form6174.resources
+C:\Users\qo\source\repos\Higher Maths\Random Music Notes\obj\Debug\Random_Music_Notes.FormPrimeNumbers.resources

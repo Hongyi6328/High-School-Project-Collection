@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<departments>
+    <department>
+        <name>Accounts</name>
+        <balance>295.00</balance>
+    </department>
+    <department>
+        <name>Computing</name>
+        <balance>395.00</balance>
+    </department>
+    <department>
+        <name>Health and PE</name>
+        <balance>26.00</balance>
+    </department>
+    <department>
+        <name>Science</name>
+        <balance>134.95</balance>
+    </department>
+</departments>

@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\bin\Debug\Guess Number!.exe.config
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\bin\Debug\Guess Number!.exe
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\bin\Debug\Guess Number!.pdb
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\bin\Debug\Guess Number!.xml
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess_Number_.Form1.resources
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess_Number_.Resources.resources
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.exe
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.xml
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.pdb
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\Guess Number!\Guess Number!\obj\Debug\Guess Number!.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\bin\Debug\Scottish Fishery_console.exe.config
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\bin\Debug\Scottish Fishery_console.exe
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\bin\Debug\Scottish Fishery_console.pdb
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\bin\Debug\Scottish Fishery_console.xml
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish_Fishery_console.Resources.resources
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.vbproj.GenerateResource.cache
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.exe
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.xml
+C:\Users\qo\source\repos\Scottish Fishery_console\Scottish Fishery_console\obj\Debug\Scottish Fishery_console.pdb

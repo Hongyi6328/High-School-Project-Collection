@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\bin\Debug\Random Binary Generator.exe.config
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\bin\Debug\Random Binary Generator.exe
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\bin\Debug\Random Binary Generator.pdb
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\bin\Debug\Random Binary Generator.xml
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random_Binary_Generator.Form1.resources
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random_Binary_Generator.Resources.resources
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.exe
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.xml
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.pdb
+C:\Users\qo\source\repos\Random Binary Generator\Random Binary Generator\obj\Debug\Random Binary Generator.vbprojResolveAssemblyReference.cache

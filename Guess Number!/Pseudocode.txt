@@ -1,0 +1,17 @@
+Start 
+Display Tips
+Input number 
+If Val(number)>=0 And Val(number)<=1000
+e.Handle = True 
+End If 
+Difine secret as systom.random = Rnd(0,1000,"")
+If e.Button2.click=True Then
+If secret>number Then 
+Display.Text=(Val(number) & "is too low")
+End If
+If number>secret Then
+Display.Text=(Val(number) & "is too high")
+Else 
+Display.Text="You guessed the correct number"
+End If
+End If 

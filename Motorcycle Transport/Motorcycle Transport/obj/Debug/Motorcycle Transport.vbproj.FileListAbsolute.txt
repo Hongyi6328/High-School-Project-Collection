@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\bin\Debug\Motorcycle Transport.exe.config
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\bin\Debug\Motorcycle Transport.exe
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\bin\Debug\Motorcycle Transport.pdb
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\bin\Debug\Motorcycle Transport.xml
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle_Transport.Form1.resources
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle_Transport.Resources.resources
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.exe
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.xml
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.pdb
+C:\Users\qo\source\repos\Motorcycle Transport\Motorcycle Transport\obj\Debug\Motorcycle Transport.vbprojResolveAssemblyReference.cache

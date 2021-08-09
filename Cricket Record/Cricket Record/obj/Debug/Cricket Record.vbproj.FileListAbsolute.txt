@@ -1,0 +1,15 @@
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\bin\Debug\Cricket Record.exe.config
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\bin\Debug\Cricket Record.exe
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\bin\Debug\Cricket Record.pdb
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\bin\Debug\Cricket Record.xml
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket_Record.Resources.resources
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.vbproj.GenerateResource.cache
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.exe
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.xml
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket Record.pdb
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket_Record.DGV.resources
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket_Record.Recording.resources
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket_Record.MainPage.resources
+C:\Users\qo\source\repos\Cricket Record\Cricket Record\obj\Debug\Cricket_Record.DGV2.resources

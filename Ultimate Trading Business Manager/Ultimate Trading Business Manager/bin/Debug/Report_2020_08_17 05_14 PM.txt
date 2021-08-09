@@ -1,0 +1,44 @@
+Report about deals from all time:
+
+Deals that earn the highest profits: 
+
+  Profit:   $2862086
+  Ref No.:  83365981
+  Product:  HF1SO3
+  Factory:  Barrows LLC
+  Customer: Rafaelita Crowth
+
+  Profit:   $2652287
+  Ref No.:  21119111
+  Product:  RKRVL8
+  Factory:  Cronin Inc
+  Customer: Fletch O'Kuddyhy
+
+  Profit:   $2651689
+  Ref No.:  63660433
+  Product:  UU9Z1B
+  Factory:  Reilly Inc
+  Customer: Dorolice Tunmore
+
+Top customers whom you have made the most deals with:
+
+  Customer: Misha Dobing
+  Deals: 4
+
+  Customer: Windham Moylan
+  Deals: 3
+
+  Customer: Noble Skyram
+  Deals: 2
+
+Top factories that you have made the most deals with:
+
+  Factory: Carter, Rolfson and Pollich
+  Deals: 4
+
+  Factory: Leuschke, Jenkins and Lesch
+  Deals: 3
+
+  Factory: Torp and Sons
+  Deals: 2
+

@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Sine rule\Sine rule\bin\Debug\Sine rule.exe.config
+C:\Users\qo\source\repos\Sine rule\Sine rule\bin\Debug\Sine rule.exe
+C:\Users\qo\source\repos\Sine rule\Sine rule\bin\Debug\Sine rule.pdb
+C:\Users\qo\source\repos\Sine rule\Sine rule\bin\Debug\Sine rule.xml
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine_rule.Form1.resources
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine_rule.Resources.resources
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.exe
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.xml
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.pdb
+C:\Users\qo\source\repos\Sine rule\Sine rule\obj\Debug\Sine rule.vbprojAssemblyReference.cache

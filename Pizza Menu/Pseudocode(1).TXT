@@ -1,0 +1,37 @@
+Start
+
+Input Style, Size, Quantity
+
+If Style="Hawaiian" Then
+Price=9
+ElseIf Style="Capricciosa" Then
+Price=10
+ElseIf Style="Margarita" Then
+Price=14
+ElseIf Style="Aussie" Then
+Price=12
+ElseIf Style="Meat Lover" Then
+Price=8
+Else
+Price=15
+End If
+
+If Size="Small" Then
+Price=Price*0.8
+End If
+If Size="Large" Then
+Price=Price*1.5
+End If
+If Size="Extra Large" Then
+Price=Price*2
+End If
+
+Price=Price*Quantity
+
+If Delivery is Checked, Then
+Price=Price+5
+End If
+
+Print Price in Currency Format
+
+End

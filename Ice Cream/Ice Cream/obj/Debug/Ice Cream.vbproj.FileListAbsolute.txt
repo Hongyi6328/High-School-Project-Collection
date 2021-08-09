@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe.config
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\bin\Debug\Ice Cream.exe
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\bin\Debug\Ice Cream.pdb
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\bin\Debug\Ice Cream.xml
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.vbprojResolveAssemblyReference.cache
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Form1.resources
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice_Cream.Resources.resources
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.exe
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.xml
+C:\Users\qo\source\repos\Ice Cream\Ice Cream\obj\Debug\Ice Cream.pdb

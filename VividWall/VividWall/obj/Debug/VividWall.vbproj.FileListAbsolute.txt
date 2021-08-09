@@ -1,0 +1,11 @@
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\bin\Debug\VividWall.exe.config
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.Form1.resources
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.Form2.resources
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.Resources.resources
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.vbproj.GenerateResource.Cache
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\bin\Debug\VividWall.exe
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\bin\Debug\VividWall.pdb
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\bin\Debug\VividWall.xml
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.exe
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.xml
+C:\Users\qo\source\VS 2012 Projects\VividWall\VividWall\obj\Debug\VividWall.pdb

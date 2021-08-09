@@ -1,0 +1,11 @@
+C:\Users\qo\source\repos\Random Music\Random Music\bin\Debug\Random Music.exe.config
+C:\Users\qo\source\repos\Random Music\Random Music\bin\Debug\Random Music.exe
+C:\Users\qo\source\repos\Random Music\Random Music\bin\Debug\Random Music.pdb
+C:\Users\qo\source\repos\Random Music\Random Music\bin\Debug\Random Music.xml
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random_Music.Resources.resources
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.vbproj.GenerateResource.cache
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.exe
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.xml
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.pdb
+C:\Users\qo\source\repos\Random Music\Random Music\obj\Debug\Random Music.vbprojAssemblyReference.cache

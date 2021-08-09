@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Water Fall", "Water Fall\Water Fall.vbproj", "{21CB2789-3A42-4424-A26C-13B5E0060550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CB2789-3A42-4424-A26C-13B5E0060550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CB2789-3A42-4424-A26C-13B5E0060550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CB2789-3A42-4424-A26C-13B5E0060550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CB2789-3A42-4424-A26C-13B5E0060550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D27C0A0-677F-41F9-A4CA-0335CBBE388E}
+	EndGlobalSection
+EndGlobal

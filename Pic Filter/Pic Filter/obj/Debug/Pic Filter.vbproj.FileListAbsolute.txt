@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\bin\Debug\Pic Filter.exe.config
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\bin\Debug\Pic Filter.exe
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\bin\Debug\Pic Filter.pdb
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\bin\Debug\Pic Filter.xml
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic_Filter.Form1.resources
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic_Filter.Resources.resources
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.vbproj.GenerateResource.cache
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.exe
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.xml
+C:\Users\qo\source\repos\Pic Filter\Pic Filter\obj\Debug\Pic Filter.pdb

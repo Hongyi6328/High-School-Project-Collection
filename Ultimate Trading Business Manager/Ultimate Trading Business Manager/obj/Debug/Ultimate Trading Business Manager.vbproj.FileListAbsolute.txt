@@ -1,0 +1,20 @@
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\bin\Debug\Ultimate Trading Business Manager.exe.config
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\bin\Debug\Ultimate Trading Business Manager.exe
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\bin\Debug\Ultimate Trading Business Manager.pdb
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\bin\Debug\Ultimate Trading Business Manager.xml
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.vbprojAssemblyReference.cache
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formEntry.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formHome.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formNotifications.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.Resources.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.vbproj.GenerateResource.cache
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.exe
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.xml
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate Trading Business Manager.pdb
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formContacts.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formDeals.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formPassword.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formRecommendation.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formReports.resources
+C:\Users\qo\source\repos\Ultimate Trading Business Manager\Ultimate Trading Business Manager\obj\Debug\Ultimate_Trading_Business_Manager.formDealsAdvanced.resources

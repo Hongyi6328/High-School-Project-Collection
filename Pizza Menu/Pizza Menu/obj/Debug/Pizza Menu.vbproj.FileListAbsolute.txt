@@ -1,0 +1,10 @@
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\bin\Debug\Pizza Menu.exe.config
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\bin\Debug\Pizza Menu.exe
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\bin\Debug\Pizza Menu.pdb
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\bin\Debug\Pizza Menu.xml
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza_Menu.Form1.resources
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza_Menu.Resources.resources
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.vbproj.GenerateResource.Cache
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.exe
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.xml
+C:\Users\qo\source\VS 2012 Projects\Pizza Menu\Pizza Menu\obj\Debug\Pizza Menu.pdb

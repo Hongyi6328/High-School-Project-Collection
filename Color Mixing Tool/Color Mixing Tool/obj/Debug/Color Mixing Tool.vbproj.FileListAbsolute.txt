@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\bin\Debug\Color Mixing Tool.exe.config
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\bin\Debug\Color Mixing Tool.exe
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\bin\Debug\Color Mixing Tool.pdb
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\bin\Debug\Color Mixing Tool.xml
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.vbprojResolveAssemblyReference.cache
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color_Mixing_Tool.Form1.resources
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color_Mixing_Tool.Resources.resources
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.exe
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.xml
+C:\Users\qo\source\repos\Color Mixing Tool\Color Mixing Tool\obj\Debug\Color Mixing Tool.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<players>
+  <batsman>
+    <name>Dave Warner</name>
+    <innings>120</innings>
+    <runs>9752</runs>
+    <balls>15642</balls>
+    <notOuts>15</notOuts>
+    <average>48.74</average>
+    <strikeRate>70.32</strikeRate>
+  </batsman>
+  <batsman>
+    <name>Steve Smith</name>
+    <innings>89</innings>
+    <runs>11562</runs>
+    <balls>20465</balls>
+    <notOuts>30</notOuts>
+    <average>64.21</average>
+    <strikeRate>54.32</strikeRate>
+  </batsman>
+  <batsman>
+    <name>Bill Bloggs</name>
+    <innings>3</innings>
+    <runs>75</runs>
+    <balls>381</balls>
+    <notOuts>1</notOuts>
+    <average>37.5</average>
+    <strikeRate>19.69</strikeRate>
+  </batsman>
+</players>

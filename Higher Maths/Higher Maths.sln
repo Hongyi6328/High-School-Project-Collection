@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Higher Maths", "Random Music Notes\Higher Maths.vbproj", "{B26F427C-8B4B-4974-8EEF-1CFB455B031F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26F427C-8B4B-4974-8EEF-1CFB455B031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26F427C-8B4B-4974-8EEF-1CFB455B031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26F427C-8B4B-4974-8EEF-1CFB455B031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26F427C-8B4B-4974-8EEF-1CFB455B031F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938F7E22-FBBD-4F64-A07D-CBD9AAEC39EF}
+	EndGlobalSection
+EndGlobal

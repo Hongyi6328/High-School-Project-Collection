@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<doc>
+  <player>
+    <name>Joseph Stalin</name>
+    <club>Comitern</club>
+    <innings>1000</innings>
+    <runs>1000</runs>
+    <balls>1000</balls>
+    <average>100</average>
+    <strikeRate>10</strikeRate>
+    <notOuts>1000</notOuts>
+  </player>
+</doc>

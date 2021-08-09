@@ -1,0 +1,12 @@
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.exe.config
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.pdb
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\bin\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.vbprojResolveAssemblyReference.cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random_Music_Notes.Form1.resources
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random_Music_Notes.Resources.resources
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.vbproj.GenerateResource.Cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.vbproj.CoreCompileInputs.cache
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.exe
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.xml
+C:\Users\qo\source\repos\Random Music Notes\Random Music Notes\obj\Debug\Random Music Notes.pdb

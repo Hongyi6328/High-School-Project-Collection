@@ -1,0 +1,25 @@
+Start
+Input num1,num2
+Define num3
+If BtnPlus.Click Then
+num3=num1+num2
+End if
+If BtnMinus.Click Then
+num3=num1-num2
+End if
+If BtnMul.Click Then
+num3=num1*num2
+End if
+If BtnDivide.Click Then
+num3=num1/num2
+End if
+If BtnClear.Click Then
+num1,num2,num3=Nothing
+End if
+If BtnEqual.Click Then
+Display num3
+End if 
+If btnExit.Click Then
+End 
+End if 
+End

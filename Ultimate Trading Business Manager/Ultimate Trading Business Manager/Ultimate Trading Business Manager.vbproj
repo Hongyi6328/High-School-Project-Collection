@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6B4458D7-51B2-4EDA-9902-C42B844039CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Ultimate_Trading_Business_Manager.My.MyApplication</StartupObject>
+    <RootNamespace>Ultimate_Trading_Business_Manager</RootNamespace>
+    <AssemblyName>Ultimate Trading Business Manager</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Ultimate Trading Business Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Ultimate Trading Business Manager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="formContacts.Designer.vb">
+      <DependentUpon>formContacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formContacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDeals.Designer.vb">
+      <DependentUpon>formDeals.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formDeals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDealsAdvanced.Designer.vb">
+      <DependentUpon>formDealsAdvanced.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formDealsAdvanced.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEntry.Designer.vb">
+      <DependentUpon>formEntry.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formHome.Designer.vb">
+      <DependentUpon>formHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formNotifications.Designer.vb">
+      <DependentUpon>formNotifications.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formNotifications.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formPassword.Designer.vb">
+      <DependentUpon>formPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRecommendation.Designer.vb">
+      <DependentUpon>formRecommendation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formRecommendation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formReports.Designer.vb">
+      <DependentUpon>formReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="formContacts.resx">
+      <DependentUpon>formContacts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDeals.resx">
+      <DependentUpon>formDeals.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDealsAdvanced.resx">
+      <DependentUpon>formDealsAdvanced.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEntry.resx">
+      <DependentUpon>formEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formHome.resx">
+      <DependentUpon>formHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formNotifications.resx">
+      <DependentUpon>formNotifications.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPassword.resx">
+      <DependentUpon>formPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRecommendation.resx">
+      <DependentUpon>formRecommendation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formReports.resx">
+      <DependentUpon>formReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
